@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# postgres-demo
-=======
 # Spring Boot, PostgreSQL, JPA, Hibernate 构建 RESTful 增删改查API 
 
 在这篇文章中，你会学到如何通过配置`Spring Boot` 来使用`PostgresSQL`数据库，从而构建一个具有`RESTful`特点的、具有增删改查功能的`API`，这个demo项目是一个在线问答的程序，具有两个Domain Model- `Question` 和 `Answer` 因为问题可以有很多答案，所以这个两个Domain Model 是一对多的关系。
@@ -14,7 +11,7 @@
 * 增加 **Web**，**JPA** 和**PostgreSQL**依赖。
 * 点击创建项目后，项目会自动下载到本地。
 
-![image](image/20180428111050.png)
+![image](screen_shot/20180521150940.png)
 
 ## 项目的架构目录
 下面是这个Demo项目的架构目录，我们之后要在这里一个一个的创建我们所需要的包和类。
